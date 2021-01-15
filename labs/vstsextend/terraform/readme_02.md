@@ -1,7 +1,7 @@
 ## Exercise 2: Examine the Terraform file (IaC) in your Source code
 In this lab, you will use PartsUnlimited which is an example eCommerce website developed using .Net Core. You will examine the terraform file which helps you to provision the Azure Resources required to deploy PartsUnlimited website.
 
-1. Navigate to the project you created above using [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/?TemplateId=77382&Name=Terraform){:target="_blank"}
+1. Navigate to the project you created above using [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/?TemplateId=77382&Name=Terraform)
 
 1. Select **Repos**. Switch to **terraform** branch.
 
