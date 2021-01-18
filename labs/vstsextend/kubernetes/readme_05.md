@@ -10,7 +10,6 @@ In this exercise, let us trigger a build manually and upon completion, an automa
     
     ![clickbuild](images/buildprogress.gif)
     
-
 1. The build will generate and push the docker image to ACR. After the build is completed, you will see the build summary. To view the generated images navigate to the Azure Portal, select the **Azure Container Registry** and navigate to the **Repositories**.
 
     ![imagesinrepo](images/imagesinrepo.png)
@@ -52,4 +51,3 @@ The Kubernetes resource view from the Azure portal replaces the AKS dashboard ad
 ![resource review](images/aks-monitor.png)
 
 More information found at: https://docs.microsoft.com/en-us/azure/aks/kubernetes-portal
-
